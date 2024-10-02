@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">First Game</string>
+    <string name="reset">Reset</string>
+    <string name="o_plays_msg">O\'s turn</string>
+    <string name="x_plays_msg">X\'s turn</string>
+</resources>
